@@ -24,7 +24,19 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/IT21227554/count.svg" />
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21227554&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<a href="https://github.com/IT21227554/github-stats#gh-dark-mode-only">
+<img src="https://github.com/IT21227554/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/IT21227554/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/IT21227554/github-stats#gh-light-mode-only">
+<img src="https://github.com/IT21227554/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/IT21227554/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=IT21227554&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+ </div>
+
+
+
+ 
+
