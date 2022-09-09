@@ -4,7 +4,7 @@
  
 ### Hi there I'm Sudheera Chandrajith 👋
 <br>
-🔭 I’m currently 2nd year undergraduate on SLIIT 
+🔭 I’m currently 2nd year undergraduate at SLIIT 
  <br>
  
 📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/sudheera-chandrajith/)
