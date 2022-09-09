@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IT21227554&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=IT21227554&theme=onedark&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
