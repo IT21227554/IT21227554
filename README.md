@@ -1,13 +1,13 @@
 
 
 <div align="center">
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&vCenter=true&lines=Hi+there;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
  
-### Hi there I'm Sudheera Chandrajith 👋
-<br>
-🔭 I’m currently 2nd year undergraduate at SLIIT 
- <br>
- 
-📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/sudheera-chandrajith/)
+I'm Sudheera Chndrajith but you can call me ray. I'm currently following a undergraduate degree in SLIIT 
+
+<!--
+📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/sudheera-chandrajith/)-->
  
  
 
