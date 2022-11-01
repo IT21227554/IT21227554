@@ -2,7 +2,7 @@
 
 <div align="center">
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&vCenter=true&lines=Hi+Mage+Umma+Katela;Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?&center=true&vCenter=true&lines=Hi+there;Welcome+to+my+Github+profile)](https://git.io/typing-svg
  
 I'm Sudheera Chndrajith but you can call me ray. I'm currently following a undergraduate degree in SLIIT 
 
